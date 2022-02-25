@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhonnysdias
 - 👀 I’m interested in  um emprego como desenvolvedor python
-- 🌱 I’m currently learning  python
+- 🌱 I’m currently em busca de mais conhecimento
 - 💞️ I’m looking to collaborate on  uma empresa
 - 📫 How to reach me  jhonnysdias007@gmail.com
 
